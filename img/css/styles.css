@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+    background-color: #e9e65c;
+}
+
+h1{
+    text-align: center;
+    background-color: rgb(241, 177, 1);
+}
+
+.subtitulo{
+    border: solid 3px;
+    font-family Arial;
+}
+
+.hola{
+    background-image: url("https://image.freepik.com/foto-gratis/explosion-abstracta-polvo-color-fondo-blanco-movimiento-congelado-chapoteo-polvo_36326-1805.jpg");
+}
